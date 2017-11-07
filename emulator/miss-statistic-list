@@ -1,0 +1,30 @@
+=============================
+rv64uf-v-fcmp.out
+ITLB L1 mis 9
+ITLB L1 req 42665
+ITLB L1 valid mis 9
+ITLB L1 valid req 42452
+ITLB L2 valid mis 27
+ITLB L2 valid req 27
+-----------------------------
+DTLB L1 mis 346
+DTLB L1 req 13943
+DTLB L1 valid mis 18
+DTLB L1 valid req 13878
+DTLB L2 valid mis 0
+DTLB L2 valid req 0
+=============================
+rv64uf-v-ldst.out
+ITLB L1 mis 9
+ITLB L1 req 41995
+ITLB L1 valid mis 9
+ITLB L1 valid req 41782
+ITLB L2 valid mis 9
+ITLB L2 valid req 9
+-----------------------------
+DTLB L1 mis 343
+DTLB L1 req 14058
+DTLB L1 valid mis 18
+DTLB L1 valid req 13993
+DTLB L2 valid mis 18
+DTLB L2 valid req 18
